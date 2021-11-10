@@ -11,7 +11,7 @@
         android:theme="@style/Theme.VivaColombia">
         <activity
             android:name=".DetallePereiraActivity"
-            android:exported="true" />
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
