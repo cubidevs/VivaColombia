@@ -6,6 +6,6 @@ import android.os.Bundle
 class DetalleIbagueActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_detalle_ibague)
+        setContentView(R.layout.activity_ibague)
     }
 }
