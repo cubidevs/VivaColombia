@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">VivaColombia</string>
+    <string name="Nevado">Pereira</string>
+    <string name="nevado_santa_isabel">Nevado Santa Isabel</string>
+    <string name="detalle">El nevado de Santa Isabel es una de las montañas de la cordillera Central de Colombia. Su cima se eleva a 4965 metros sobre el nivel del mar, y marca la frontera entre los departamentos de Risaralda, Tolima y Caldas, siendo el punto más alto del primero.1​ Tiene un gran número de lagunas, charcos y vegetación de frailejones y otras plantas.[cita requerida] En su cima se encuentra una de las seis masas glaciares supervivientes actualmente en Colombia, siendo la penúltima por tamaño en el país solo por delante del glaciar del nevado de Tolima.</string>
+
 </resources>
