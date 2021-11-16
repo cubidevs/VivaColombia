@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">VivaColombia</string>
     <string name="Bogota">Bogota</string>
+    <string name="descripción_portada">Descripción</string>
+    <string name="contenido_descripcion">Bogotá, oficialmente Bogotá, Distrito Capital(antiguamente, Santafé de Bogotá),es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley.A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos.Está constituida por 20 localidades y es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.</string>
 </resources>
