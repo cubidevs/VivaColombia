@@ -11,9 +11,14 @@ class RegistroTuristicoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registro_turistico)
 
-        var registrarButton: Button = findViewById(R.id.registrar_button)
-        var nombreEditText: EditText = findViewById(R.id.nombre_edit_text)
-        var infoTextView: TextView = findViewById(R.id.info_text_view)
+        val registrarButton: Button = findViewById(R.id.registrar_button)
+        val nombreEditText: EditText = findViewById(R.id.nombre_edit_text)
+        val infoTextView: TextView = findViewById(R.id.info_text_view)
+
+        registrarButton.setOnClickListener {
+            val nombre=nombreEditText.text
+            infoTextView.text=nombre
+        }
 
     }
 }
