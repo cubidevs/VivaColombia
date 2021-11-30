@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VivaColombia">
         <activity
-            android:name=".RegistroTuristicoActivity"
+            android:name=".DetalleBogotaActivity"
             android:exported="false" />
         <activity
-            android:name=".DetalleBogotaActivity"
+            android:name=".RegistroTuristicoActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
